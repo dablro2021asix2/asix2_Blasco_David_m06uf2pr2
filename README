@@ -1,0 +1,7 @@
+Programa: resolv.sh
+Permisos: chmod 777 resolv.sh
+Execució: ./resolv.sh
+
+Programa: esb.sh
+Permisos: chmod 777 esb.sh
+Execució: ./esb.sh
